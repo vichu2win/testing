@@ -1,0 +1,7 @@
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/vk
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/appsettings.json
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/vk.dll
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/vk.deps.json
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/vk.runtimeconfig.json
+/Users/mac/Documents/vk/bin/Debug/net7.0/publish/vk.pdb
